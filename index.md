@@ -6,6 +6,8 @@
 
 _We act as normal humans and respect each others chance to get them first_
 
+<div align="center">Comparison</div>
+
 |    **Params**   | **RTX 4090** |  **GT 210 (from Ali)**   |
 | :---        |    :----:   |          :----: |
 | **Base Clock**      | 2.23GHz     | 12:00   |
@@ -19,8 +21,8 @@ _We act as normal humans and respect each others chance to get them first_
 
 
 #### How to buy one now?
-- [x] Drop crypto market
-- [x] Wait till price prices go down
-- [ ] Buy 10
+- [x]  Drop crypto market
+- [x]  Wait till price prices go down
+- [ ]  Buy 10
 
 ## [Check prices](./prices) ----------------
