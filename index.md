@@ -4,8 +4,7 @@
 
 ~~We write bots to buy them first~~
 
-==We act as normal humans and respect each others chance to get them first==
-:----:
+_We act as normal humans and respect each others chance to get them first_
 
 |    **Params**   | **RTX 4090** |  **GT 210 (from Ali)**   |
 | :---        |    :----:   |          :----: |
